@@ -113,7 +113,7 @@ msgstr "Teilnehmen"
 
 #: circles/templates/circles/_terms_modal.html:7
 msgid "Terms & Conditions"
-msgstr "Geschäftsbedingungen"
+msgstr "Teilnahmebedingungen"
 
 #: circles/templates/circles/_terms_modal.html:10
 msgid ""
@@ -153,6 +153,30 @@ msgid ""
 "CoronaCircles.</p>\n"
 "        "
 msgstr ""
+CoronaCircles (CC) ist ein kostenloser Dienst, der Open-Source-Software verwendet.
+Wir möchten eine Plattform schaffen, die Menschen zusammenbringt, so dass sie das, was sie bewegt, teilen können und anderen zuhören.
+ 
+Bitte beachte folgendes: 
+CC kann nicht die Verantwortung für die Sicherheit seiner Benutzer*innen während des Gesprächs übernehmen.
+Du und nur Du bist letztendlich für Deine Sicherheit verantwortlich.
+Wir helfen uns dabei gegenseitig, wenn wir einige Grundregeln beachten.
+Sich zu öffnen und sich zu zeigen, braucht Respekt.
+Sei freundlich, hilfsbereit und respektvoll mit allen um und unterbrich niemanden.
+Wir empfehlen ausdrücklich, keine persönlichen Daten auszutauschen.
+Klick auf keine Links und teile niemals Deinen Bildschirm.
+Zeichne nicht auf, was gesagt wird, zumal es gesetzlich verboten ist.
+Zögere nicht, unangemessene Benutzer*innen rauszuwerfen und uns zu melden, was passiert ist.
+Verlasse das Treffen, falls du merkst, dass du dich nicht wohl fühlst.
+ 
+Du bist wie oben erwähnt für deine eigenen Erfahrungen und Sicherheit verantwortlich sind. Der Verein Ideen hoch drei e.V., der in Deutschland registriert ist, ist rechtlich verantwortlich für das Hosting dieser Website.
+Schick uns eine Rückmeldung oder einen Bericht, wenn etwas gestört hat; am besten so schnell wie möglich.
+Wenn CoronaCircles missbraucht wird, werden wir die entsprechende E-Mail-Adresse blockieren.
+CoronaCircles speichert Namen und E-Mails nur, um über Veranstaltungen zu informieren, für die du dich angemeldet hast.
+ 
+Lange Gesetzestexte sind langweilig, aber wir müssen uns - und damit auch dich und deine Daten - vor unfreundlichen Leuten schützen. Die Anmeldung ist nur für Personen möglich, die mindestens 18 Jahre alt und voll geschäftsfähig sind. Wir haben eine Nutzungsbedingungen & Datenschutzrichtlinie, die dein (und unser) Verhalten und deine Rechte in Bezug auf Inhalte, Datenschutz und Gesetze beschreibt. Um diesen CC-Dienst nutzen zu können, musst du den Nutzungsbedingungen & Datenschutzrichtlinien in vollem Umfang zustimmen, bevor du mit der Nutzung von CC beginnst. Wenn du mit ihnen einverstanden bist, gehen wir davon aus, dass du das Ganze kritisch durchgelesen hast. Bei Verstößen werden wir die in den Nutzungsbedingungen und Datenschutzrichtlinien genannten Maßnahmen ergreifen. Darüber hinaus gelten die Bedingungen der Videoplattform Jitsi.
+ 
+Vielen Dank für das Lesen dieser Einführung! Jetzt bist du bereit einzutauchen.
+Wir hoffen, dass Sie die Erfahrung im CoronaCircle dir Freude machen wird und du für dich und deinen Alltag was mitnehmen kannst.
 
 #: circles/templates/circles/_terms_modal.html:21
 msgid "Disagree"
@@ -165,11 +189,11 @@ msgstr "Zustimmen"
 #: circles/templates/circles/full_or_past.html:10
 #: circles/templates/circles/participate.html:16
 msgid "Sorry, this circle is already full"
-msgstr "Sorry, dieser Circle ist bereits voll."
+msgstr "Schade, dieser Circle ist bereits voll."
 
 #: circles/templates/circles/full_or_past.html:12
 msgid "Sorry, this circle already took place"
-msgstr "Sorry, dieser Circle hat bereits stattgefunden."
+msgstr "Schade, dieser Circle hat bereits stattgefunden."
 
 #: circles/templates/circles/full_or_past.html:16
 msgid "You can not join"
@@ -220,7 +244,7 @@ msgstr "Kommende Circles"
 
 #: circles/templates/circles/list.html:20
 msgid "No circles at the moment, would you like to host one?"
-msgstr "Keine Circle zur Zeit, hast du Lust einen anzubieten?"
+msgstr "Keine Circle zur Zeit, hast Du Lust einen anzubieten?"
 
 #: circles/templates/circles/list.html:25
 msgid "Host a Circle"
@@ -237,14 +261,14 @@ msgstr "Sorry, dieser Circle hat bereits stattgefunden."
 
 #: circles/templates/circles/participate.html:25
 msgid "Please provide your E-Mail Address."
-msgstr "Bitte gib deine E-Mail-Adresse an."
+msgstr "Bitte gib Deine E-Mail-Adresse an."
 
 #: circles/templates/circles/participate.html:26
 msgid ""
 "You will receive an e-mail containing a link to join the circle, before the "
 "circle is starting"
 msgstr ""
-"Bevor der Circle anfängt, bekommst du eine E-Mail mit einem Link, um am Circle "
+"Bevor der Circle anfängt, bekommst Du eine E-Mail mit einem Link, um am Circle "
 "teilzunehmen"
 
 #: circles/templates/circles/participated.html:9
@@ -258,7 +282,7 @@ msgstr "Beim Circle, der am <b>%(date)s</b> stattfindet"
 
 #: circles/templates/circles/participated.html:14
 msgid "Invite people to join the Circle on Facebook"
-msgstr "Lade Leute per Facebook ein, an deinem Circle teilzunehmen"
+msgstr "Lade Leute per Facebook ein, an Deinem Circle teilzunehmen"
 
 #: homepage/admin.py:32
 msgid "Advanced options"
@@ -339,6 +363,13 @@ msgid ""
 "confirmation mail</li><li>mark the beginning of each round</li><li>watch the "
 "time</li></ul>"
 msgstr ""
+Es ist einfach, zu einem CoronaCircle einzuladen.
+Allerdings ist es hilfreich, wenn Du schon einmal Gespräche im Kreis wie bei CoronaCircles erlebt hast.
+ 
+Als Gastgeber hast Du folgende Aufgaben:
+- alle willkommen heißen und die Hinweise und den Ablauf, wie sie in der Bestätigungsmail an dich formuliert sind, ins Bewusstsein heben
+- den Beginn jeder Runde einleiten
+- auf die Zeit achten
 
 #: homepage/templates/homepage/homepage.html:43
 msgid "Be a Host"
@@ -355,7 +386,7 @@ msgstr "das CoronaCircle-Team"
 
 #: homepage/templates/homepage/homepage.html:58
 msgid "Share your experiences, questions, and ideas with us!"
-msgstr "Teil deine Erfahrungen, Fragen und Ideen mit uns!"
+msgstr "Teil Deine Erfahrungen, Fragen und Ideen mit uns!"
 
 #: templates/base.html:15
 msgid ""
@@ -363,7 +394,7 @@ msgid ""
 "Experience deep social encounter in times of physical distancing!"
 msgstr ""
 "CoronaCircles ist eine gemeinnützige Platform für selbst organisierte Zuhör-"
-"Circle. Erfahre tiefe soziale Begegnungen in Zeiten von physischer Distanz."
+"Circle. Erfahre tiefe soziale Begegnungen in Zeiten von physischer Distanz!"
 
 #: templates/footer.html:15
 msgid "Email Address"
