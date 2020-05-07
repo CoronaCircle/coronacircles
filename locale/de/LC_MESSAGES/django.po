@@ -155,7 +155,7 @@ msgstr "Circle Voll"
 
 #: circles/templates/circles/_terms_modal.html:7
 msgid "Terms & Conditions"
-msgstr "Geschäftsbedingungen"
+msgstr "Teilnahmebedingungen"
 
 #: circles/templates/circles/_terms_modal.html:10
 msgid ""
@@ -195,6 +195,32 @@ msgid ""
 "CoronaCircles.</p>\n"
 "        "
 msgstr ""
+CoronaCircles (CC) ist ein kostenloser Dienst, der Open-Source-Software verwendet.
+Wir möchten eine Plattform schaffen, die Menschen zusammenbringt, so dass sie das, was sie bewegt, teilen können und anderen zuhören.
+ 
+Bitte beachte folgendes: 
+CC kann nicht die Verantwortung für die Sicherheit seiner Benutzer*innen während des Gesprächs übernehmen.
+Du und nur Du bist letztendlich für Deine Sicherheit verantwortlich.
+Wir helfen uns dabei gegenseitig, wenn wir einige Grundregeln beachten.
+Sich zu öffnen und sich zu zeigen, braucht Respekt.
+Sei freundlich, hilfsbereit und respektvoll mit allen um und unterbrich niemanden.
+Wir empfehlen ausdrücklich, keine persönlichen Daten auszutauschen.
+Klick auf keine Links und teile niemals Deinen Bildschirm.
+Zeichne nicht auf, was gesagt wird, zumal es gesetzlich verboten ist.
+Zögere nicht, unangemessene Benutzer*innen rauszuwerfen und uns zu melden, was passiert ist.
+Verlasse das Treffen, falls du merkst, dass du dich nicht wohl fühlst.
+ 
+Du bist wie oben erwähnt für deine eigenen Erfahrungen und Sicherheit verantwortlich sind. Der Verein Ideen hoch drei e.V., der in Deutschland registriert ist, ist rechtlich verantwortlich für das Hosting dieser Website.
+Schick uns eine Rückmeldung oder einen Bericht, wenn etwas gestört hat; am besten so schnell wie möglich.
+Wenn CoronaCircles missbraucht wird, werden wir die entsprechende E-Mail-Adresse blockieren.
+CoronaCircles speichert Namen und E-Mails nur, um über Veranstaltungen zu informieren, für die du dich angemeldet hast.
+ 
+Lange Gesetzestexte sind langweilig, aber wir müssen uns - und damit auch dich und deine Daten - vor unfreundlichen Leuten schützen. Die Anmeldung ist nur für Personen möglich, die mindestens 18 Jahre alt und voll geschäftsfähig sind. Wir haben eine Nutzungsbedingungen & Datenschutzrichtlinie, die dein (und unser) Verhalten und deine Rechte in Bezug auf Inhalte, Datenschutz und Gesetze beschreibt. Um diesen CC-Dienst nutzen zu können, musst du den Nutzungsbedingungen & Datenschutzrichtlinien in vollem Umfang zustimmen, bevor du mit der Nutzung von CC beginnst. Wenn du mit ihnen einverstanden bist, gehen wir davon aus, dass du das Ganze kritisch durchgelesen hast. Bei Verstößen werden wir die in den Nutzungsbedingungen und Datenschutzrichtlinien genannten Maßnahmen ergreifen. Darüber hinaus gelten die Bedingungen der Videoplattform Jitsi.
+ 
+Vielen Dank für das Lesen dieser Einführung! Jetzt bist du bereit einzutauchen.
+Wir hoffen, dass Sie die Erfahrung im CoronaCircle dir Freude machen wird und du für dich und deinen Alltag was mitnehmen kannst.
+ 
+
 
 #: circles/templates/circles/_terms_modal.html:21
 msgid "Disagree"
